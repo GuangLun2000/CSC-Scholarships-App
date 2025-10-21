@@ -95,7 +95,7 @@
 
 以上是第一章（前期准备）的所有内容。下一章，笔者将重点关注CSC系统材料的撰写技巧。
 
-<br> ![img](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/25csc.assets/phd030718s.gif)
+<br> ![img](25csc.assets/phd030718s.gif)
 
 ---
 
@@ -137,7 +137,7 @@
 
 #### 2.2 「主要学术成果摘要」撰写技巧
 
-<br>![image-20250629223339321](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/25csc.assets/1.png)
+<br>![image-20250629223339321](25csc.assets/1.png)
 
 <br>总体来说，主要学术成果摘要的核心目的，就是为了向评委证明，申请人有能力完成未来的学业和项目，凸显自己的个人实力，并展现出自己相对于同期竞争者的独特优势。笔者这里给大家提供几点重要建议：
 
@@ -166,17 +166,17 @@
 
 <br>这里提供笔者当时写的「概括性摘要」，供大家参考：
 
-<br>![iShot_2025-07-03_00.11.38](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/25csc.assets/iShot_2025-07-03_00.11.38.png)
+<br>![iShot_2025-07-03_00.11.38](25csc.assets/iShot_2025-07-03_00.11.38.png)
 
 <br>最后，关于论文成果的「四点描述法」，这里提供笔者的文本示例：
 
-<br>![iShot_2025-06-29_23.35.04](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/25csc.assets/iShot_2025-06-29_23.35.04.png)
+<br>![iShot_2025-06-29_23.35.04](25csc.assets/iShot_2025-06-29_23.35.04.png)
 
 ---
 
 #### 2.3 「研修计划」撰写技巧
 
-<br>![2](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/25csc.assets/2.png)
+<br>![2](25csc.assets/2.png)
 
 <br>研修计划是整个CSC申请中最为重要，同时也公认最难写的一个材料。网上对于研修计划怎么写这个话题已经有太多文章（大家可以在小红书搜到很多优质的内容），因此笔者不会关注于说明每一个章节需要撰写什么内容，而是提供一种思路，教大家如何拔高自己的材料，从而让审稿人信服，愿意打高分。
 
@@ -244,7 +244,7 @@
 
 那么以上就是第二章（材料撰写）的所有内容。在下一章，笔者将重点关注英国CSC独特的「面试环节」，包括笔者自己的真实面经，准备过程，以及笔者最干货的题库笔记（超过15000字）。同时，如果你希望笔者帮你把关材料的撰写，以及进行面试模拟，也欢迎联系👉hc663[at]cam.ac.uk
 
-<br>![phd082418s](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/25csc.assets/phd082418s.gif)
+<br>![phd082418s](25csc.assets/phd082418s.gif)
 
 ---
 
@@ -357,7 +357,7 @@ So that’s my brief introduction, thank you!
 
 ---
 
-<br>![phd042518s](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/25csc.assets/phd042518s.gif)
+<br>![phd042518s](25csc.assets/phd042518s.gif)
 
 ----
 
@@ -374,12 +374,12 @@ So that’s my brief introduction, thank you!
 
 笔者想说的是，公派中奖与否，实在有太多的主客观因素，很多时候我们付出了巨大努力却不一定换来好的结果。但是，不管是有没有中奖的同学们，都不要担心，因为人生往往是一个长期的均值回归，人生各个阶段的升学也好，求职也罢。都只是这条长达几十年的均值回归线上的一点点小噪音，你最后一定会和你的付出、能力和野心匹配上。所以我们大可不必为了一些短期的噪音而过多地焦虑。
 
-<br>![live](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/25csc.assets/live.png)
+<br>![live](25csc.assets/live.png)
 
 <br>最后的最后，这篇文章应该是网络上大家可以找到的，关于英国CSC奖学金申请最好的指导性文章。笔者毫无保留地分享了自己申请博士、申请公派奖学金一年来最重要的心得，希望对大家有所帮助。祝大家顺利中奖！
 
 <br>如果这篇文章帮到您，请考虑请笔者喝杯咖啡吧～感谢您的慷慨 ☺️
 
-<br>![pay](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/25csc.assets/pay.png)
+<br>![pay](25csc.assets/pay.png)
 
 <br>
